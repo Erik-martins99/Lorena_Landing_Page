@@ -4,6 +4,18 @@ Uma landing page moderna, responsiva e de alta performance desenvolvida para uma
 
 O objetivo do projeto é apresentar de forma elegante os serviços da profissional, destacar sua identidade visual e facilitar o contato com clientes através das redes sociais.
 
+# 📸 Landing Page - Fotógrafa de Salvador
+
+Uma landing page moderna, responsiva e de alta performance desenvolvida para uma fotógrafa da cidade de Salvador - BA.
+
+<p align="center">
+  <a href="https://lorena-landing-page.vercel.app/sobre" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Projeto-Online-000?style=for-the-badge" alt="Deploy Vercel">
+  </a>
+</p>
+
+O objetivo do projeto é apresentar de forma elegante os serviços da profissional, destacar sua identidade visual e facilitar o contato com clientes através das redes sociais.
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -30,27 +42,31 @@ O objetivo do projeto é apresentar de forma elegante os serviços da profission
 
 # 📷 Preview
 
-## Home
+## Home 1/3
 
 ![Home](./midia/01.png)
 
 ---
 
-## Sobre Mim
+## Home 2/3
 
 ![Sobre Mim](./midia/02.png)
 
 ---
 
-## Planos
+## Home 3/3
 
 ![Planos](./midia/03.png)
 
 ---
 
-## Rodapé
+## Sobre 1/2
 
 ![Rodapé](./midia/04.png)
+
+## Sobre 2/2
+
+![Rodapé](./midia/05.png)
 
 ---
 
