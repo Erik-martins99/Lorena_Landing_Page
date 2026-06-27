@@ -6,8 +6,11 @@ O objetivo do projeto é apresentar de forma elegante os serviços da profission
 
 A aplicação está disponível online através da Vercel:
 
-🔗 **Acesse o projeto:**  
-https://lorena-landing-page.vercel.app/sobre
+<p align="center">
+  <a href="https://lorena-landing-page-git-master-eriks-projects-b1eed588.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▲%20Deploy%20na%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy na Vercel">
+  </a>
+</p>
 
 ---
 
