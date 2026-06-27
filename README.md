@@ -1,16 +1,154 @@
-# React + Vite
+# 📸 Landing Page - Fotógrafa de Salvador
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma landing page moderna, responsiva e de alta performance desenvolvida para uma fotógrafa da cidade de Salvador - BA.
 
-Currently, two official plugins are available:
+O objetivo do projeto é apresentar de forma elegante os serviços da profissional, destacar sua identidade visual e facilitar o contato com clientes através das redes sociais.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ⚛️ React JS
+- ⚡ Vite
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 📖 Funcionalidades
+
+- Página inicial (Home)
+- Seção **Sobre Mim**
+- Seção **Planos**
+- Links para as redes sociais no rodapé
+- Layout responsivo
+- Navegação fluida entre as seções
+- Interface moderna e minimalista
+
+---
+
+# 📷 Preview
+
+## Home
+
+![Home](./midia/01.png)
+
+---
+
+## Sobre Mim
+
+![Sobre Mim](./midia/02.png)
+
+---
+
+## Planos
+
+![Planos](./midia/03.png)
+
+---
+
+## Rodapé
+
+![Rodapé](./midia/04.png)
+
+---
+
+# 📂 Estrutura do Projeto
+
+```text
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+├── midia/
+│   ├── 01.png
+│   ├── 02.png
+│   ├── 03.png
+│   └── 04.png
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+# ⚙️ Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+Entre na pasta do projeto:
+
+```bash
+cd nome-do-repositorio
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+O projeto estará disponível em:
+
+```
+http://localhost:5173
+```
+
+---
+
+# 🎯 Objetivo
+
+Este projeto foi desenvolvido como uma landing page institucional para apresentar os serviços de uma fotógrafa profissional de Salvador, proporcionando uma experiência agradável para visitantes e potenciais clientes.
+
+---
+
+# 📱 Responsividade
+
+A aplicação foi desenvolvida seguindo o conceito **Mobile First**, oferecendo uma ótima experiência em:
+
+- Smartphones
+- Tablets
+- Notebooks
+- Desktops
+
+---
+
+# 💻 Desenvolvimento
+
+Projeto desenvolvido utilizando React JS e Vite, priorizando:
+
+- Componentização
+- Código limpo
+- Performance
+- Facilidade de manutenção
+- Boa experiência do usuário (UX)
+
+---
+
+# 📄 Licença
+
+Este projeto está disponível para fins de demonstração em portfólio.
+
+Caso deseje utilizar este projeto como base, sinta-se à vontade para adaptá-lo conforme sua necessidade.
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+Desenvolvido por **Erik Martins**.
+
+Se gostou do projeto, deixe uma ⭐ no repositório.
